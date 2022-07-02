@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+.first-div-radius
+{
+	border-radius: 8px;
+}
+.second-div-radius
+{
+	border-radius:  8px 8px 0px 0px;
+}
+.w
+{
+	width:550px;
+}
+.des
+{
+	border-bottom:1px solid black;
+}
+
+
+
